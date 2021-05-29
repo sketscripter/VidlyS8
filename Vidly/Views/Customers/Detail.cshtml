@@ -1,0 +1,32 @@
+﻿@model Vidly.Models.Customer
+@{
+    ViewBag.Title = "Detail";
+}
+<div class="nk-dislaimer">
+    <h2 class="display-1 lead" style="font-size: 25px;">Customer n° @Model.Id</h2>
+
+    <p>First Name : <span>@Model.Name</span></p>
+    <p>Last Name : <span>@Model.LastName</span></p>
+    <p>Birth Date : <span>@Model.BirthDate.Value.Day/@Model.BirthDate.Value.Month/@Model.BirthDate.Value.Year</span></p>
+    <p>
+        Is Subscribed To News Letter ?
+        @if (Model.IsSubscribedToNewsLetter)
+        {
+            <span class=" bold">
+                Yes
+            </span>
+        }
+        else
+        {
+            <span class=" bold">
+                No
+            </span>
+        }
+    </p>
+
+    <p> Membership Type : <span>@Model.MemberShipType.Name</span></p>
+    <p>IDN : <span>@Model.IDN</span></p>
+    <p>Email : <span>@Model.Email</span></p>
+    <p>Phone : <span>@Model.Phone</span></p>
+    @Html.ActionLink("Edit Customer", "Edit", "Customers", new { id = Model.Id }, new { @class = "btn btn-primary" })
+</div>

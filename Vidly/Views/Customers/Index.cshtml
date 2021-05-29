@@ -1,0 +1,48 @@
+﻿@model List<Vidly.Models.Customer>
+@{
+    ViewBag.Title = "Customers";
+}
+<div style="display: flex; justify-content: space-between; margin: 10px auto; align-items: center ">
+    <h2 class="display-1"> Customers</h2>
+    @Html.ActionLink("Add A Customer", "New", "Customers", null, new { @class = "btn btn-primary" })
+</div>
+
+<table class=" table table-hover table-bordered">
+    <thead>
+        <tr>
+            <th>First Name </th>
+            <th>Last Name </th>
+            <th>Birth Date</th>
+            <th>Member Ship Type</th>
+            <th>Edit</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach(var customer in Model)
+            {
+        <tr>
+            <td>
+                @customer.Name
+            </td>
+            <td>
+                @customer.LastName
+            </td>
+            <td>
+                @customer.BirthDate.Value.Day/@customer.BirthDate.Value.Month/@customer.BirthDate.Value.Year
+            </td>
+            <td>
+                @customer.MemberShipType.Name
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Customers", new { id = customer.Id }, null)
+            </td>
+            <td>
+                @Html.ActionLink("Detail", "Detail", "Customers", new { id = customer.Id }, null)
+            </td>
+
+        </tr>
+            }
+    </tbody>
+</table>

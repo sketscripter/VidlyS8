@@ -1,0 +1,30 @@
+﻿@model Vidly.Models.Serie
+@{
+    ViewBag.Title = "Detail";
+}
+<img src="~/Images/@Model.Banner" style="width: 100%; height:200px;" />
+<br />
+<h2 class=" display-2">@Model.Name</h2>
+<br />
+
+
+
+<ul class="list-inline">
+
+    <li>
+        <img src="~/Images/@Model.Poster" style="width:250px; height:350px;" />
+
+    </li>
+    <li>
+        <p>Genre : @Model.Genre.Name</p>
+        <p>Release Date : @Model.ReleaseDate.Day/@Model.ReleaseDate.Month/@Model.ReleaseDate.Year</p>
+        <p>Director : @Model.Director</p>
+        <p>Studio : @Model.Studio</p>
+    </li>
+    <li>
+        <br />
+        <p>Description : @Model.Description</p>
+        @Html.ActionLink("Edit Serie", "Edit", "Series", new { id = Model.Id }, new { @class = "btn btn-primary" })
+
+    </li>
+</ul>

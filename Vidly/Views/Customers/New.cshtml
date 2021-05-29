@@ -1,0 +1,61 @@
+﻿@model Vidly.ViewModels.customerViewModel
+@{
+    ViewBag.Title = "New Customer";
+}
+
+<h2 class="display-1" style="font-size: 40px;">New Customer</h2>
+
+@using (Html.BeginForm("Save", "Customers"))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.Name)
+        @Html.TextBoxFor(m => m.Customer.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.Name)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.LastName)
+        @Html.TextBoxFor(m => m.Customer.LastName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.LastName)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.BirthDate)
+        @Html.TextBoxFor(m => m.Customer.BirthDate, "{0:d MMM yyy}", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.BirthDate)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.MemberShipTypeId)
+        @Html.DropDownListFor(m => m.Customer.MemberShipTypeId, new SelectList(Model.MemberShipTypes, "Id", "Name"), "Select MemberShip Type ...", new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.IDN)
+        @Html.TextBoxFor(m => m.Customer.IDN, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.IDN)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.Email)
+        @Html.TextBoxFor(m => m.Customer.Email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.Email)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.Phone)
+        @Html.TextBoxFor(m => m.Customer.Phone, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.Phone)
+    </div>
+
+    <div class="form-check">
+        <label class="form-checklabel" for="flexCheckDefault">
+            @Html.CheckBoxFor(m => m.Customer.IsSubscribedToNewsLetter)  Subscribed To News Letter ?
+        </label>
+    </div>
+
+
+    @Html.HiddenFor(m => m.Customer.Id)
+    <button type="submit" class="btn btn-primary">Create</button>
+}
+

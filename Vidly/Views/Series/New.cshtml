@@ -1,0 +1,64 @@
+﻿@model Vidly.ViewModels.serieViewModel
+@{
+    ViewBag.Title = "New Serie";
+}
+
+<h2 class="display-1" style="font-size: 40px;">New Serie</h2>
+
+@using (Html.BeginForm("Save", "Series"))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Serie.Name)
+        @Html.TextBoxFor(m => m.Serie.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Serie.Name)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Serie.GenreId)
+        @Html.DropDownListFor(m => m.Serie.GenreId, new SelectList(Model.Genres, "Id", "Name"), "Select Genre ...", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Serie.GenreId)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Serie.Director)
+        @Html.TextBoxFor(m => m.Serie.Director, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Serie.Director)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Serie.ReleaseDate)
+        @Html.TextBoxFor(m => m.Serie.ReleaseDate, "{0:d MMM yyy}", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Serie.ReleaseDate)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Serie.Studio)
+        @Html.TextBoxFor(m => m.Serie.Studio, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Serie.Studio)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Serie.Poster)
+        @Html.TextBoxFor(m => m.Serie.Poster, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Serie.Poster)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Serie.Banner)
+        @Html.TextBoxFor(m => m.Serie.Banner, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Serie.Banner)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Serie.Description)
+        @Html.TextAreaFor(m => m.Serie.Description, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Serie.Description)
+    </div>
+
+
+    @Html.HiddenFor(m => m.Serie.Id)
+    <button type="submit" class="btn btn-primary">Create</button>
+}
+

@@ -1,0 +1,25 @@
+﻿@model List<Vidly.Models.Serie>
+@{
+    ViewBag.Title = "Series";
+}
+<div style="display: flex; justify-content: space-between; margin: 10px auto; align-items: center;">
+    <h2 class="display-1 " style="font-size: 30px; ">Series</h2>
+    @Html.ActionLink("Add A Serie", "New", null, null, new { @class = "btn btn-primary d-block my-5" })
+</div>
+
+
+
+
+<ul class="list-inline">
+    @foreach (var Serie in Model)
+    {
+    <li>
+        <a href="@Url.Action("Detail", "Series", new { id = Serie.Id }, null)">
+            <img src="~/Images/@Serie.Poster" style="width:200px; height:300px;" />
+            <a /><br />
+            @Html.ActionLink(Serie.Name, "Detail", "Series", new { id = Serie.Id }, null)<br />
+            @Serie.Genre.Name
+    </li>
+
+    }
+</ul>

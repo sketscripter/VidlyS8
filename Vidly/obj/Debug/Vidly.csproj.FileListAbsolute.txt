@@ -1,0 +1,459 @@
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\Vidly.dll.config
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\Vidly.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\Vidly.pdb
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\csc.exe
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\csc.exe.config
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\csc.rsp
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\csi.exe
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\csi.exe.config
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\csi.rsp
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.AppContext.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Console.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Net.Http.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\vbc.exe
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\vbc.exe.config
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\vbc.rsp
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\EntityFramework.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\System.Web.Helpers.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\System.Web.Mvc.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\System.Web.Optimization.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\System.Web.Razor.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\System.Web.WebPages.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\WebGrease.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\EntityFramework.xml
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\System.Web.Helpers.xml
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\System.Web.Mvc.xml
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\System.Web.Optimization.xml
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\System.Web.Razor.xml
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\System.Web.WebPages.xml
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\Hiba\source\repos\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\Hiba\source\repos\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\Hiba\source\repos\Vidly\Vidly\obj\Debug\Vidly.dll
+C:\Users\Hiba\source\repos\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Hiba\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.customers_movies_membershiptypes.resources
+C:\Users\Hiba\source\repos\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\Hiba\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomer.resources
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\obj\Debug\Vidly.Migrations.customers_movies_membershiptypes.resources
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomer.resources
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\obj\Debug\Vidly.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\Vidly.dll.config
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\Vidly.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\Vidly.pdb
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\csc.exe
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\csc.exe.config
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\csc.rsp
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\csi.exe
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\csi.exe.config
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\csi.rsp
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.AppContext.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Console.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.IO.Compression.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Net.Http.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.ValueTuple.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\vbc.exe
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\vbc.exe.config
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\vbc.rsp
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\EntityFramework.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\System.Web.Helpers.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\System.Web.Mvc.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\System.Web.Optimization.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\System.Web.Razor.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\System.Web.WebPages.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\WebGrease.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\EntityFramework.xml
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\System.Web.Helpers.xml
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\System.Web.Mvc.xml
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\System.Web.Optimization.xml
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\System.Web.Razor.xml
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\System.Web.WebPages.xml
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\fr\System.Web.Razor.resources.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\obj\Debug\Vidly.Migrations.customers_movies_membershiptypes1.resources
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\obj\Debug\Vidly.Migrations.customers_movies_membershiptypes2.resources
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenres.resources
+C:\Users\pc gamer casa\Desktop\Account\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenre.resources
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\Vidly.dll.config
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\Vidly.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\Vidly.pdb
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\csc.exe
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\csc.exe.config
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\csc.rsp
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\csi.exe
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\csi.exe.config
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\csi.rsp
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.AppContext.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Console.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Net.Http.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\vbc.exe
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\vbc.exe.config
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\vbc.rsp
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\System.Web.Helpers.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\EntityFramework.xml
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\System.Web.Mvc.xml
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\System.Web.Optimization.xml
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\System.Web.Razor.xml
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\System.Web.WebPages.xml
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\obj\Debug\Vidly.Migrations.customers_movies_membershiptypes.resources
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomer.resources
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\obj\Debug\Vidly.Migrations.customers_movies_membershiptypes1.resources
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\obj\Debug\Vidly.Migrations.Customers_movies_membershiptypes2.resources
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\obj\Debug\Vidly.Migrations.AddGenres.resources
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\obj\Debug\Vidly.Migrations.PopulateGenre.resources
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\obj\Debug\Vidly.dll
+C:\Users\Hiba\Desktop\Vidlyv2\Vidly\obj\Debug\Vidly.pdb
+E:\Vidlyv22\Vidly\bin\Vidly.dll.config
+E:\Vidlyv22\Vidly\bin\Vidly.dll
+E:\Vidlyv22\Vidly\bin\Vidly.pdb
+E:\Vidlyv22\Vidly\bin\roslyn\csc.exe
+E:\Vidlyv22\Vidly\bin\roslyn\csc.exe.config
+E:\Vidlyv22\Vidly\bin\roslyn\csc.rsp
+E:\Vidlyv22\Vidly\bin\roslyn\csi.exe
+E:\Vidlyv22\Vidly\bin\roslyn\csi.exe.config
+E:\Vidlyv22\Vidly\bin\roslyn\csi.rsp
+E:\Vidlyv22\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Vidlyv22\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Vidlyv22\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Vidlyv22\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Vidlyv22\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Vidlyv22\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Vidlyv22\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Vidlyv22\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Vidlyv22\Vidly\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.AppContext.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Collections.Immutable.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Console.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Globalization.Calendars.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.IO.Compression.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.IO.FileSystem.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Net.Http.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Net.Sockets.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.ValueTuple.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Xml.XPath.dll
+E:\Vidlyv22\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Vidlyv22\Vidly\bin\roslyn\vbc.exe
+E:\Vidlyv22\Vidly\bin\roslyn\vbc.exe.config
+E:\Vidlyv22\Vidly\bin\roslyn\vbc.rsp
+E:\Vidlyv22\Vidly\bin\roslyn\VBCSCompiler.exe
+E:\Vidlyv22\Vidly\bin\roslyn\VBCSCompiler.exe.config
+E:\Vidlyv22\Vidly\bin\Antlr3.Runtime.dll
+E:\Vidlyv22\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Vidlyv22\Vidly\bin\Microsoft.Web.Infrastructure.dll
+E:\Vidlyv22\Vidly\bin\Newtonsoft.Json.dll
+E:\Vidlyv22\Vidly\bin\System.Web.Helpers.dll
+E:\Vidlyv22\Vidly\bin\EntityFramework.xml
+E:\Vidlyv22\Vidly\bin\EntityFramework.SqlServer.xml
+E:\Vidlyv22\Vidly\bin\System.Web.Mvc.xml
+E:\Vidlyv22\Vidly\bin\System.Web.Optimization.xml
+E:\Vidlyv22\Vidly\bin\System.Web.Razor.xml
+E:\Vidlyv22\Vidly\bin\System.Web.WebPages.xml
+E:\Vidlyv22\Vidly\bin\System.Web.WebPages.Deployment.xml
+E:\Vidlyv22\Vidly\bin\System.Web.WebPages.Razor.xml
+E:\Vidlyv22\Vidly\bin\Newtonsoft.Json.xml
+E:\Vidlyv22\Vidly\bin\Antlr3.Runtime.pdb
+E:\Vidlyv22\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Vidlyv22\Vidly\bin\fr\System.Web.Mvc.resources.dll
+E:\Vidlyv22\Vidly\bin\fr\System.Web.Optimization.resources.dll
+E:\Vidlyv22\Vidly\bin\fr\System.Web.Razor.resources.dll
+E:\Vidlyv22\Vidly\bin\fr\System.Web.WebPages.resources.dll
+E:\Vidlyv22\Vidly\bin\fr\System.Web.WebPages.Deployment.resources.dll
+E:\Vidlyv22\Vidly\bin\fr\System.Web.WebPages.Razor.resources.dll
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.customers_movies_membershiptypes.resources
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomer.resources
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.customers_movies_membershiptypes1.resources
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.Customers_movies_membershiptypes2.resources
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.AddGenres.resources
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.PopulateGenre.resources
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.dll
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.pdb
+E:\Vidlyv22\Vidly\bin\EntityFramework.dll
+E:\Vidlyv22\Vidly\bin\EntityFramework.SqlServer.dll
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.MemberShipTy_IdInCustomers.resources
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.AddGenreIdToMovies.resources
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.AddAnnotationRequiredToMovieName.resources
+E:\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.AddRequiredFieldsMovieCustomer.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.customers_movies_membershiptypes.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomer.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.customers_movies_membershiptypes1.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.Customers_movies_membershiptypes2.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.AddGenres.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.PopulateGenre.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.MemberShipTy_IdInCustomers.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.AddGenreIdToMovies.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.AddAnnotationRequiredToMovieName.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.AddRequiredFieldsMovieCustomer.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.pdb
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\Vidly.dll.config
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\Vidly.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\Vidly.pdb
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\csc.exe
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\csc.exe.config
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\csc.rsp
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\csi.exe
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\csi.exe.config
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\csi.rsp
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.AppContext.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Console.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Globalization.Calendars.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.IO.Compression.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Net.Http.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Net.Sockets.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.ValueTuple.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Xml.XPath.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\vbc.exe
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\vbc.exe.config
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\vbc.rsp
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\Antlr3.Runtime.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\EntityFramework.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\EntityFramework.SqlServer.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\Newtonsoft.Json.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\System.Web.Helpers.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\EntityFramework.xml
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\EntityFramework.SqlServer.xml
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\System.Web.Mvc.xml
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\System.Web.Optimization.xml
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\System.Web.Razor.xml
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\System.Web.WebPages.xml
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\Newtonsoft.Json.xml
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\Antlr3.Runtime.pdb
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\fr\System.Web.Mvc.resources.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\fr\System.Web.Optimization.resources.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\fr\System.Web.Razor.resources.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\fr\System.Web.WebPages.resources.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.AddLastName.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.AddingImages.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.AddingSeries.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.AddingSeries2.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.AddingMin18.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.AddingAttributs2.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.AddingAttributs3.resources
+D:\Downloads\DOC\S8\Prog .NET\Vidlyv22\Vidly\obj\Debug\Vidly.Migrations.addingModif.resources

@@ -1,0 +1,36 @@
+﻿@model List<Vidly.Models.MemberShipType>
+@{
+    ViewBag.Title = "MemberShip Types";
+}
+
+<h2 class="display-1 text-center">MemberShip Types</h2>
+
+<table class="table table-hover table-bordered">
+    <thead>
+        <tr>
+            <th>Membership Type</th>
+            <th>SignUp Free</th>
+            <th>Duration In Months</th>
+            <th>Discount Rate</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var membershiptype in Model)
+            {
+                <tr>
+                    <td>
+                        @membershiptype.Name
+                    </td>
+                    <td>
+                       $ @membershiptype.SignUpFree
+                    </td>
+                    <td>
+                        @membershiptype.DurationInMonths
+                    </td>
+                    <td>
+                        @membershiptype.DiscountRate %
+                    </td>
+                </tr>
+            }
+    </tbody>
+</table>

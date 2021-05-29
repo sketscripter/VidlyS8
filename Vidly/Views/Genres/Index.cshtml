@@ -1,0 +1,29 @@
+﻿@model List<Vidly.Models.Genre>
+@{
+    ViewBag.Title = "Genres";
+}
+
+<h2 class="display-1 text-center" style="font-size: 25px">Genres</h2>
+
+<table class=" table table-hover table-bordered">
+    <thead>
+        <tr>
+            <th> Id </th>
+            <th>Name</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var genre in Model)
+        {
+            <tr>
+                <td>
+                    @genre.Id
+                </td>
+                <td>
+                    @genre.Name
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

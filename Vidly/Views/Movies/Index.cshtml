@@ -1,0 +1,25 @@
+﻿@model List<Vidly.Models.Movie>
+@{
+    ViewBag.Title = "Movies";
+}
+<div style="display: flex; justify-content: space-between; margin: 10px auto; align-items: center;">
+    <h2 class="display-1 " style="font-size: 30px; ">Movies</h2>
+    @Html.ActionLink("Add A Movie", "New", null, null, new { @class = "btn btn-primary d-block my-5" })
+</div>
+
+
+
+
+<ul class="list-inline">
+    @foreach (var movie in Model)
+    {
+    <li>
+            <a href="@Url.Action("Detail", "Movies", new { id = movie.Id }, null)">
+            <img src="~/Images/@movie.Poster" style="width:200px; height:300px;" />
+            <a /><br />
+            @Html.ActionLink(movie.Name, "Detail", "Movies", new { id = movie.Id }, null)<br />
+            @movie.Genre.Name
+    </li>
+
+    }
+</ul>

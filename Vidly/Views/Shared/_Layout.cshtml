@@ -1,0 +1,177 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="@Url.Content("~/Content/favicon.ico")" />
+    <title>@ViewBag.Title | Vidly.com</title>
+    <link rel="stylesheet" href="~/Content/bundle.css?ver=112">
+    <link rel="stylesheet" href="~/Content/styles-azure.css?ver=112">
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Vidly", "Index", "Home", new { area = "" }, new { @class = "navbar-brand display-1 font-weight-bold font-size-22p" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Movies", "Index", "Movies")</li>
+                    <li>@Html.ActionLink("Series", "Index", "Series")</li>
+                    <li>@Html.ActionLink("Customers", "Index", "Customers")</li>
+                    <li>@Html.ActionLink("Genres", "Index", "Genres")</li>
+                    <li>@Html.ActionLink("MemberShipTypes", "Index", "MemberShipTypes")</li>
+                </ul>
+            </div>
+        </div>
+    </div>h
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+
+    </div>
+    <!-- Footer -->
+    <footer class="page-footer font-small unique-color-dark" style="background-color:aqua;">
+
+        <div style="background-color: #6351ce;">
+            <div class="container">
+
+                <!-- Grid row-->
+                <div class="row py-4 d-flex align-items-center">
+
+                    <!-- Grid column -->
+                    <div>
+                        <h6>
+                            <strong>
+                                This website is a product for the .NET Project evaluation for the year 2021 at Université Internationale de Casablanca. <br />Supervised by Mr. Zouhair Rimale
+                            </strong> 
+                        </h6>
+                    </div>
+                    <!-- Grid column -->
+                    <!-- Grid column -->
+                    <div class="col-md-6 col-lg-7 text-center text-md-right">
+
+                        <!-- Facebook -->
+                        <a class="fb-ic">
+                            <i class="fab fa-facebook-f white-text mr-4"> </i>
+                        </a>
+                        <!-- Twitter -->
+                        <a class="tw-ic">
+                            <i class="fab fa-twitter white-text mr-4"> </i>
+                        </a>
+                        <!-- Google +-->
+                        <a class="gplus-ic">
+                            <i class="fab fa-google-plus-g white-text mr-4"> </i>
+                        </a>
+                        <!--Linkedin -->
+                        <a class="li-ic">
+                            <i class="fab fa-linkedin-in white-text mr-4"> </i>
+                        </a>
+                        <!--Instagram-->
+                        <a class="ins-ic">
+                            <i class="fab fa-instagram white-text"> </i>
+                        </a>
+
+                    </div>
+                    <!-- Grid column -->
+
+                </div>
+                <!-- Grid row-->
+
+            </div>
+        </div>
+
+        <!-- Footer Links -->
+        <div class="container text-center text-md-left mt-5">
+
+            <!-- Grid row -->
+            <div class="row mt-3">
+
+                <!-- Grid column -->
+                <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+
+                    <!-- Content -->
+                    <h6 class="text-uppercase font-weight-bold">Project Realisators</h6>
+                    <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                    <p>
+                        HAFA Hamza - SEGTEN Ismael, 4th year engineering students at Université Internationale de Casablanca<br />
+                        Computer Engineering
+                    </p>
+
+                </div>
+                <!-- Grid column -->
+                <!-- Grid column -->
+                <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+
+                    <!-- Links -->
+                    <h6 class="text-uppercase font-weight-bold">Products</h6>
+                    <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                    <p>
+                        <a href="@Url.Action("Index","Movies")">Movies</a>
+                    </p>
+                    <p>
+                        <a href="@Url.Action("Index","Series")">Series</a>
+                    </p>
+                    <p>
+                        <a href="@Url.Action("Index","Customers")">Customers</a>
+                    </p>
+                    <p>
+                        <a href="@Url.Action("Index","MembershipTypes")">Membership Types</a>
+                    </p>
+
+                </div>
+                <!-- Grid column -->
+               
+                <!-- Grid column -->
+                <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+
+                    <!-- Links -->
+                    <h6 class="text-uppercase font-weight-bold">Contact</h6>
+                    <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                    <p>
+                        <i class="fas fa-home mr-3"></i> Casablanca, CS 10012, MR
+                    </p>
+                    <p>
+                        <i class="fas fa-envelope mr-3"></i> hamza.hafa@student.uic.ac.ma
+                    </p>
+                    <p>
+                        <i class="fas fa-envelope mr-3"></i> ismael.segten@student.uic.ac.ma
+                    </p>
+                    <p>
+                        <i class="fas fa-print mr-3"></i> +212-6 66 07 86 87
+                    </p>
+
+                </div>
+                <!-- Grid column -->
+                <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+                    <iframe style="width:100%" height="200" src="https://www.youtube.com/embed/PvKiWRTSAzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+                </div>
+            </div>
+            <!-- Grid row -->
+
+        </div>
+        <!-- Footer Links -->
+        <!-- Copyright -->
+        <div class="footer-copyright text-center py-3">
+            © 2021 HAFA Hamza - SEGTEN Ismael
+        </div>
+        <!-- Copyright -->
+
+    </footer>
+   
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
